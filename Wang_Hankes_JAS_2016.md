@@ -1,6 +1,6 @@
 **Mositure and Precipitation Evolution during Tropical Cyclone Formation as Revealed by SSM/I-SSMIS Retrievals**
 
-**By:** *Zhou Wang and Isaac Hankes*, JAS, July 2016
+**By:** *Zhou Wang and Isaac Hankes*, JAS, July 2016, doi: 10.1175/JAS-D-15-0306.1
 
 **Summary:**
 
@@ -15,3 +15,5 @@ Mean CWV over the pouch decreases as you move outward from the pouch center, whi
 Previous research has shown that precipitation increases exponentially with CWV after some critical value over the normal tropical oceans. Using the passive microwave retrievals, the authors found that when precipitation rate was stratified by CWV higher rain rates for a given CWV were seen within the pouch compared to the mean tropical Atlantic atmosphere. However, when rain rate was stratified by saturation fraction a nearly identical exponential increase in rain rate after some critical value was seen in both ensemble groups. This suggests that the higher rain rates associated with the pouches occur in regions with higher saturation CWV (i.e., higher temperature regions). Analysis of saturation fraction histograms shows that convection in a developing tropical cyclone has a better chance at being near or above criticality. This is thought to be associated with a positive feedback between low-level moisture convergence and convection, which, in turn, suggests that convection is in a quasi-equilibrium state between high rain rates and high saturation fraction.
 
 Some caveats do exists with the interpretation of the microwave data used in this study. First, the composite technique used here likely smooths out small-scale and non-steady state (i.e., more transient) features that are theorized to be important. Further, while microwave data is useful in examining the evolution of both precipitation and moisture, data in high precipitation regions is less reliable.
+
+Summarized by Erik Nielsen
